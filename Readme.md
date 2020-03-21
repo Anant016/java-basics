@@ -50,18 +50,18 @@ ArrayList<DataType> varName = new ArrayList<DataType>();
 - .remove("a")
 - .indexOf("")
 
-### HashSet
+## HashSet
 
-## Function
+### Function
 
 - .add()
 - .contains()
 - .addAll
 - .removeAll
 
-### HashMap
+## HashMap
 
-## Function
+### Function
 
 - .put()
 - .containsKey(key)
