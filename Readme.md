@@ -37,6 +37,10 @@ only for Vector,Hashtable. Hence not a Universal Iterator.
 
 ## 02-ArrayList
 
+```
+ArrayList<DataType> varName = new ArrayList<DataType>();
+```
+
 ### Functions
 
 - .add()
