@@ -50,7 +50,7 @@ ArrayList<DataType> varName = new ArrayList<DataType>();
 - .remove("a")
 - .indexOf("")
 
-## HashSet
+### HashSet
 
 ## Function
 
@@ -59,7 +59,7 @@ ArrayList<DataType> varName = new ArrayList<DataType>();
 - .addAll
 - .removeAll
 
-## HashMap
+### HashMap
 
 ## Function
 
