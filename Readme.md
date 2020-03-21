@@ -34,6 +34,7 @@ only for Vector,Hashtable. Hence not a Universal Iterator.
 ### Functions
 
 - .addElement()
+- .remove(2) //2nd element
 
 ## 02-ArrayList
 
@@ -48,3 +49,20 @@ ArrayList<DataType> varName = new ArrayList<DataType>();
 - .size()
 - .remove("a")
 - .indexOf("")
+
+## HashSet
+
+## Function
+
+- .add()
+- .contains()
+- .addAll
+- .removeAll
+
+## HashMap
+
+## Function
+
+- .put()
+- .containsKey(key)
+- .get(key)
